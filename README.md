@@ -1,2 +1,9 @@
-# Adaptive-ML-quiz-Arena
-Adaptive ML Quiz Arena is a machine-learning based quiz generator that uses TF-IDF and K-Means clustering to create unique, non-repetitive questions for every quiz. It adapts difficulty, maintains question variety, and provides an interactive Streamlit interface for personalized learning
+# ML Question Generator & Quiz (Streamlit)
+
+## Setup (recommended: use a virtualenv)
+pip install -r requirements.txt
+
+## Run (VS Code terminal or any terminal)
+streamlit run app.py
+
+Open http://localhost:8501 in your browser.
